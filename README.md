@@ -6,7 +6,7 @@ API documentation http://localhost:7600/api-docs
 ## Installation
 
 ```bash
-$ npm install
+$ yarn
 ```
 
 ## Running the app
@@ -19,7 +19,7 @@ $ yarn seed
 $ yarn start
 
 # watch mode
-$ yarn start:dev
+$ yarn dev
 
 # production mode
 $ yarn start:prod
